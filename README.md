@@ -2,7 +2,7 @@
 <h2>Cyber Security Projects/Training:</h2>
 
 - <b>Sans Traning</b>
-  - Sec 450 (GSOC)[]
+  - Sec 450 (GSOC)[https://github.com/shashank-1542/Sans-450]
   - Sec 555 (GSDA)[]
 
 <h3>Certificate</h3>
