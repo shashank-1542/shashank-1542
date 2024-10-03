@@ -1,9 +1,9 @@
 <h1>Hi, I'm Shashank <br/>
 <h2>Cyber Security Projects/Training:</h2>
 
-- <b>Sans Traning</b>
-  - Sec 450 (GSOC)[https://github.com/shashank-1542/Sans-450]
-  - Sec 555 (GSDA)[]
+- <b>Some Project</b>
+  - Soc Simulation Lab [[https://github.com/shashank-1542/Soc](https://github.com/shashank-1542/SOC-simulation-lab)]
+  - SIEM [https://github.com/shashank-1542/SIEM]
 
 <h3>Certificate</h3>
 
